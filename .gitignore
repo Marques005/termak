@@ -4,7 +4,7 @@
 !.env.example
 
 # Project content
-warehouse/
+Warehouse-Stock-Inventory-Management-System--NextJS-FullStack-main/
 components/
 *.md
 *.txt
